@@ -1,4 +1,5 @@
-Multi Camera Labeling GUI
+##Multi Camera Labeling GUI
+
 '''
 USAGE:
 cd project_directory
